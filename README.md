@@ -1,5 +1,3 @@
-# Intelligent-Urban-Delivery-Robot AI-Search-Algorithms
-
 #  Intelligent Urban Delivery Robot
 
 ## Description
